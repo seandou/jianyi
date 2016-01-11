@@ -1,0 +1,28 @@
+{
+  "name": "jianyi",
+  "version": "0.0.1",
+  "description": "A simple translation tool.",
+  "main": "./lib/index.js",
+  "bin": {
+    "jianyi": "./bin/cli.js"
+  },
+  "dependencies": {
+    "request": "^2.67.0",
+    "commander": "^2.9.0"
+  },  
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seandou/jianyi.git"
+  },
+  "keywords": [
+    "translate"
+  ],
+  "author": "Sean Dou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seandou/jianyi/issues"
+  },
+  "homepage": "https://github.com/seandou/jianyi#readme"
+}
