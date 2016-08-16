@@ -23,14 +23,6 @@ Before use it, you should init ```$HOME/.jianyi```, register key and pass from [
 Usage
 =======
 
-eg. jianyi "hello world"
-
-Set alias for short:
-
-```
-alias t='jianyi'
-```
-
 ```
 > t hello
 
